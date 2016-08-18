@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Lookup a definition" skipped="0" tests="2" time="94.95" timestamp="2016-08-224 11:16:37"><testcase name="Looking up the definition of 'apple'"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+org.vocalink.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)&#13;
+org.vocalink.steps.DefinitionSteps.givenTheUserIsOnTheWikionaryHomePage(DefinitionSteps.java:17)&#13;
+</system-err></testcase><testcase name="Looking up the definition of 'pear'"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+org.vocalink.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)&#13;
+org.vocalink.steps.DefinitionSteps.givenTheUserIsOnTheWikionaryHomePage(DefinitionSteps.java:17)&#13;
+</system-err></testcase></testsuite>
